@@ -17,7 +17,7 @@ Users can upload an image of a prescription, and the application uses advanced A
 
 A live, interactive demo of this application is hosted on **Hugging Face Spaces**.
 
-👉 [**Click here to try PillTalk Live**](#) <!-- Replace # with the actual Hugging Face link -->
+👉 [**Click here to try PillTalk Live**](https://huggingface.co/spaces/mythribanda/Pilltalk) <!-- Replace # with the actual Hugging Face link -->
 
 ---
 
@@ -54,5 +54,4 @@ npm start
 
 # Research-internsip
 ## 🎓 Certifications
- 🗓️ Date: 28 May 2025  
-  📄 [View Certificate](https://drive.google.com/file/d/1OM67h0w3F82nmxXAv4sHI4FeC4mYENnd/view?usp=sharing)
+
